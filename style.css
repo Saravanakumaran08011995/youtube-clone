@@ -1,0 +1,20 @@
+section{
+    padding-top: 100px;
+    text-align: center;
+}
+
+#navBarSearchForm{
+    width: 526px;
+}
+
+.youtube-icon{
+    width: 100px;
+}
+
+.body_container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(15rem,1fr));
+    gap: 1rem;
+
+}
